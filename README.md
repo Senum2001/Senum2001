@@ -24,7 +24,7 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=SolidWorks&logoColor=white)
-
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 
 ---
 
