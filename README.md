@@ -28,14 +28,6 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 
 ---
 
-## My GitHub Stats
-
-**Senum Dodangoda's GitHub Stats**  
-- ![Stars](https://img.shields.io/github/stars/senum?style=social)
-- ![Commits](https://img.shields.io/github/commit-activity/y/senum?style=flat)
-- ![PRs](https://img.shields.io/github/issues-pr/senum?style=flat)
-- ![Issues](https://img.shields.io/github/issues/senum?style=flat)
-- ![Contributed](https://img.shields.io/github/contributors/senum?style=flat)
 
 **Most Used Languages**  
 - Jupyter Notebook
