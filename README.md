@@ -18,7 +18,7 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 ![Altium](https://img.shields.io/badge/Altium-0C7C59?style=flat&logo=Altium%20Designer&logoColor=white)
 ![Atmel](https://img.shields.io/badge/Atmel-0074B5?style=flat&logo=Atmel&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-007ACC?style=flat&logo=Proteus&logoColor=white)
-STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 
 
 **Other Tools:**  
