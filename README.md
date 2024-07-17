@@ -1,4 +1,4 @@
-
+ko
 # Hi, 👋 I'm Senum Dodangoda.
 A third-year undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.
 
@@ -32,9 +32,4 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 
 
 **Most Used Languages**  
-- Jupyter Notebook
-- Verilog
-- TeX
-- C++
-- MATLAB
-- Python
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Senum2001)
