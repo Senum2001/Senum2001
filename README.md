@@ -1,4 +1,4 @@
-6
+
 # Hi, 👋 I'm Senum Dodangoda.
 A third-year undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.
 
