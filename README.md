@@ -20,7 +20,6 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 ![Altium](https://img.shields.io/badge/Altium-0C7C59?style=flat&logo=Altium%20Designer&logoColor=white)
 ![Atmel](https://img.shields.io/badge/Atmel-0074B5?style=flat&logo=Atmel&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-007ACC?style=flat&logo=Proteus&logoColor=white)
-
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![Espressif](https://img.shields.io/badge/Espressif-FF0000?style=flat&logo=Espressif&logoColor=white)
 ![QuartusPrime](https://img.shields.io/badge/Quartus%20Prime-007ACC?style=flat&logo=Altera&logoColor=white)
