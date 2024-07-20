@@ -1,4 +1,4 @@
-
+6
 # Hi, 👋 I'm Senum Dodangoda.
 A third-year undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.
 
@@ -23,7 +23,7 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=STMicroelectronics&logoColor=white)
 ![Espressif](https://img.shields.io/badge/Espressif-FF0000?style=flat&logo=Espressif&logoColor=white)
-![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-007ACC?style=flat&logo=Altera&logoColor=white)
+![QuartusPrime](https://img.shields.io/badge/Quartus%20Prime-007ACC?style=flat&logo=Altera&logoColor=white)
 
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
