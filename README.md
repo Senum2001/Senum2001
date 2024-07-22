@@ -4,6 +4,11 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Senum2001&label=Profile%20views&color=0e75b6&style=flat" alt="Senum2001" /> </p>
 
+## Ongoing Projects
+
+1.Micro Mouse Project
+2.Expandable Battery Management System
+
 ## My Skills
 
 **Machine Learning/Data Analysis:**  
