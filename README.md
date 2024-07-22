@@ -1,7 +1,7 @@
 
 # Hi, 👋 I'm Senum Dodangoda.
 
-![Profile Picture](link_to_your_profile_picture)
+
 
 I'm a third-year undergraduate student in the Department of Electronic and Telecommunication Engineering at the [University of Moratuwa](https://www.mrt.ac.lk/) in Sri Lanka.
 
