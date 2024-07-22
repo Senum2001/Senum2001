@@ -6,8 +6,8 @@ A third-year undergraduate in the Department of Electronic and Telecommunication
 
 ## Ongoing Projects
 
-1.Micro Mouse Project
-2.Expandable Battery Management System
+1. Micro Mouse Project
+2. Expandable Battery Management System
 
 ## My Skills
 
