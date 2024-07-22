@@ -1,6 +1,14 @@
 
 # Hi, 👋 I'm Senum Dodangoda.
-A third-year undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.
+
+![Profile Picture](link_to_your_profile_picture)
+
+I'm a third-year undergraduate student in the Department of Electronic and Telecommunication Engineering at the [University of Moratuwa](https://www.mrt.ac.lk/) in Sri Lanka.
+
+### Interests:
+- Embedded Systems 🌐
+- IoT 📶
+- Machine Learning 🤖
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Senum2001&label=Profile%20views&color=0e75b6&style=flat" alt="Senum2001" /> </p>
 
