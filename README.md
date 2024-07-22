@@ -2,11 +2,15 @@
 # Hi, 👋 I'm Senum Dodangoda.
 A third-year undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa in Sri Lanka.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Senum2001&label=Profile%20views&color=0e75b6&style=flat" alt="Senum2001" /> </p>
+
 ## My Skills
 
 **Machine Learning/Data Analysis:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.5.0-blue.svg)](https://www.tensorflow.org/)
+[![pandas](https://img.shields.io/badge/pandas-v1.3.0-blue.svg)](https://pandas.pydata.org/)
 
 **Programming:** 
  
