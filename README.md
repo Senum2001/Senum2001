@@ -14,8 +14,7 @@ I'm a third-year undergraduate student in the Department of Electronic and Telec
 
 ## Ongoing Projects
 
-1. Micro Mouse Project
-2. Expandable Battery Management System
+1. DeepFake Detection
 
 ## My Skills
 
