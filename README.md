@@ -3,9 +3,9 @@
 🎓 Third-year undergrad in **Electronic & Telecommunication Engineering** at the [University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka! 
 
 ### 💡 What sparks my interest?
-- 🤖 **Machine Learning Magic**
+- 🤖 **Machine Learning**
 - 🌐 **Embedded Systems**
-- 📶 **IoT Adventures**
+- 📶 **IoT**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Senum2001&label=Profile%20views&color=0e75b6&style=flat" alt="Senum2001" /> </p>
 
