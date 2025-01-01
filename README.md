@@ -1,7 +1,7 @@
 # 🌟 Hey there! I'm **Senum Dodangoda** 👋 🌟
 
 🎓 **Third-year Undergraduate in Electronic & Telecommunication Engineering**  
-[University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka  
+[University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka. Currently working as an intern Machine Learning Enigneer.  
 
 ---
 
@@ -13,11 +13,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Senum2001&label=Profile%20views&color=0e75b6&style=flat" alt="Senum2001" /> 
 </p>
-
----
-
-## 🚧 Current Mission:
-1. **DeepFake Detection** 🕵️‍♂️✨ - aiming to make detecting reality a superpower.
 
 ---
 
