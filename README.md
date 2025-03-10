@@ -2,7 +2,7 @@
 
 🎓 **Third-year undergraduate in Electronic & Telecommunication Engineering** at the [University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka. 
 
-Currently working as a **Machine Learning Engineer Intern** at **OCTAVE – John Keells Group** and a **Contract AI Engineer** at **WIWIS.AI**.
+Currently working as a Machine Learning Engineer Intern at OCTAVE – John Keells Group and a Contract AI Engineer at WIWIS.AI.
 ---
 
 ### 💡 Interests:
