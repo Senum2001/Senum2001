@@ -1,6 +1,8 @@
 # 🌟 Hey there! I'm **Senum Dodangoda** 👋 🌟
 
-🎓 **Third-year undergraduate in Electronic & Telecommunication Engineering** at the [University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka, currently working as a **Machine Learning Engineer Intern** at **OCTAVE – John Keells Group** and a **Contract AI Engineer** at **WIWIS.AI**.
+🎓 **Third-year undergraduate in Electronic & Telecommunication Engineering** at the [University of Moratuwa](https://www.mrt.ac.lk/), Sri Lanka. 
+
+Currently working as a **Machine Learning Engineer Intern** at **OCTAVE – John Keells Group** and a **Contract AI Engineer** at **WIWIS.AI**.
 ---
 
 ### 💡 Interests:
